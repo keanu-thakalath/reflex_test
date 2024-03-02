@@ -1,0 +1,3 @@
+The Avatar component is used to represent a user, and display their profile pictures or fallback texts such as initials.
+signature:
+rx.avatar(variant: "solid" | "soft" )
